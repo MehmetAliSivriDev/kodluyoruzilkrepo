@@ -3,6 +3,8 @@
 Bu repo [kodluyoruz](https://academy.patika.dev/tr/paths/kotlin-ile-mobile-app-patikasi) eğitiminde oluşturduğumuz ilk repo.
 İçerisinde bir adet README dosyası, bir adet de index.html dosyası bulunmaktadır.
 
+![proje.png](proje.png)
+
 # Installation
 
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
